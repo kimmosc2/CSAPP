@@ -24,6 +24,6 @@ CSAPP学习笔记
 
 ## Contact me
 微信:**zhaobutan**  
-微信公众号:阿贪爱学习(atanstudy)
-[阿贪爱学习](./atan)
+微信公众号:**阿贪爱学习(atanstudy)**  
+![阿贪爱学习](./atanstudy-search-QRCode.png)
 
