@@ -23,4 +23,7 @@ CSAPP学习笔记
 本作品采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-nd/4.0/)进行许可。代码使用[MIT](./LICENSE)协议开源
 
 ## Contact me
-微信:**zhaobutan**
+微信:**zhaobutan**  
+微信公众号:阿贪爱学习(atanstudy)
+[阿贪爱学习](./atan)
+
