@@ -13,10 +13,9 @@ CSAPP学习笔记
 **[MCU 15-213 精校中英字幕(bilibili)](https://www.bilibili.com/video/BV1iW411d7hd)**  
 **[Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html)**  
 
-## Table of Contents
-[第一章 计算机系统漫游](./chapter01/1.0计算机系统漫游.md)  
-[第二章 信息的表示和处理](./chapter02/2.0信息的表示和处理.md)  
+## 目录
 
+[目录](./table-of-contents.md)
 
 ## License
 [![知识共享许可协议](./license-88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)  
