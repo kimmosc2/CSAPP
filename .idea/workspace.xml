@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d3d2230-9f7e-4a9f-9055-887ea9d56dd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter03/3.4访问信息.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/code/3.4.1操作数指示符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/code/343/exchange.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -53,6 +54,8 @@
       <updated>1600243328168</updated>
       <workItem from="1600243329304" duration="137000" />
       <workItem from="1600243479161" duration="3807000" />
+      <workItem from="1600474109283" duration="1226000" />
+      <workItem from="1600519130950" duration="207000" />
     </task>
     <servers />
   </component>
